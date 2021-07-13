@@ -10,4 +10,4 @@ after the service has been offered. Partner/ Service Providers enroll on the app
 and reviews, service providers get a continuous supply of customers and customers can book service professionals as and when needed. Customer 
 subscription, fixed charges, and revenue sharing model make the organization sustainable.
 
-![website]https://mjain32.wixsite.com/mysite-1
+![website](https://mjain32.wixsite.com/mysite-1)
