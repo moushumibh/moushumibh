@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moushumibh
+- 👋 Hi, I’m Moushumi!
 - 👀 I’m interested in ... pursuing a career in Product Management
 - 🌱 I’m currently learning ... User Centered Design, Figma and Principles of UI/UX
 - 💞️ I’m looking to collaborate on ... UI/UX designs
