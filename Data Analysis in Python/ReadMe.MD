@@ -1,5 +1,5 @@
-## US Accidents 2015-2019 Data Analysis
-## Jan 2020 – Mar 2020
+## US Accidents 2015-2019
+### Jan 2020 – Mar 2020
 
 Project descriptionAnalyzed US Accidents Dec 2019 dataset of 49 states with 300K records from Kaggle. Performed data cleaning, 
 clustering and visualizations to generate recommendations for distribution of accidents across US, severity of accidents, 
