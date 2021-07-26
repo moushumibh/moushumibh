@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Moushumi!
-- 👀 I’m interested in ... pursuing a career in Product Management
+- 👀 I’m interested in ... pursuing a career in Product Management/ Business Analysis/ Program Management
 - 🌱 I’m currently learning ... User Centered Design, Figma and Principles of UI/UX
 - 💞️ I’m looking to collaborate on ... UI/UX designs
 - 📫 How to reach me ... mous.bhattacharya90@gmail.com
